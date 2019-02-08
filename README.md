@@ -22,12 +22,12 @@ final results:
 
 | Algorithm          | Jaccard | F1-score | LogLoss |
 |--------------------|---------|----------|---------|
-| KNN                | 0.7407  | 0.7144   | NA      |
-| Decision Tree      | 0.7407  | 0.8510   | NA      |
-| SVM                | 0.7407  | 0.6304	  | NA      |
-| LogisticRegression | 0.2592  | 0.1067   | 23.3262 |
+| KNN                | 0.7222  | 0.7001   | NA      |
+| Decision Tree      | 0.7777  | 0.7283   | NA      |
+| SVM                | 0.7777  | 0.6212	  | NA      |
+| LogisticRegression | 0.7592  | 0.6717   | 0.48003 |
 
 
 Please read the note book for information about the data and implementation of classifiers used.
-	
+
 
